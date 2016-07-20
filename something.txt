@@ -1,1 +1,5 @@
+<<<<<<< .mine
+Batata||||||| .r2
+dfdfjdfpjsfaipjsd=======
 Cenoura
+>>>>>>> .r3
